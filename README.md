@@ -1,5 +1,4 @@
-# clojure-practice
-
+# clojure-learning
 FIXME: description
 
 ## Installation
